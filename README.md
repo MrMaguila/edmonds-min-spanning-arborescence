@@ -2,7 +2,7 @@
 
 A simple (and unoptimized) implementation of the Edmonds algorithm for finding a minimum spanning arborescence (https://en.wikipedia.org/wiki/Edmonds%27_algorithm#:~:text=In%20graph%20theory%2C%20Edmonds%27%20algorithm,the%20minimum%20spanning%20tree%20problem.).
 
-Having g++ installed, you just need to execute the following line to run it
+Having g++ installed, you just need to execute the following line in a terminal to run it:
 
 `bash build_and_run.sh`
 
