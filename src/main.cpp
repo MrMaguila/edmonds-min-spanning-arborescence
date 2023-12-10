@@ -280,7 +280,7 @@ private:
 	/// </summary>
 	/// <returns> 
 	/// returns the set of edges of the first cycle found, if there's one, 
-	/// otherwise returns the empty vector
+	/// otherwise returns an empty map
 	/// </returns>
 	std::map<int, int> _get_cycle() const
 	{
